@@ -1,1 +1,3 @@
 This is some random file
+Here is added absolute and total toto definition
+And here is more
